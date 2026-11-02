@@ -1,0 +1,8 @@
+# Generated dashboards
+dashboards/
+
+# Notebook autosaves
+.ipynb_checkpoints/
+
+# Local datasets
+data/
